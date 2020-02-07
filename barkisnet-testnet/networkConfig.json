@@ -5,6 +5,10 @@
     {
       "name": "RewardUpgrade",
       "height": 560000
+    },
+    {
+      "name": "TokenIssueHeight",
+      "height": 9223372036854775807
     }
   ]
 }
