@@ -4,11 +4,15 @@
   "upgrade": [
     {
       "name": "RewardUpgrade",
-      "height": 560000
+      "height": 563500
     },
     {
       "name": "TokenIssueHeight",
-      "height": 9223372036854775807
+      "height": 1336800
+    },
+    {
+      "name": "UpdateVotingPeriodHeight",
+      "height": 1360843
     }
   ]
 }
