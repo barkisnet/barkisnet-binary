@@ -13,6 +13,10 @@
     {
       "name": "UpdateVotingPeriodHeight",
       "height": 1360843
+    },
+    {
+      "name": "UpdateTokenSymbolRulesHeight",
+      "height": 1450500
     }
   ]
 }
