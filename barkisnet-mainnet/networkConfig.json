@@ -17,6 +17,10 @@
     {
       "name": "UpdateTokenSymbolRulesHeight",
       "height": 1450500
+    },
+    {
+      "name": "TokenDesLenLimitUpgradeHeight",
+      "height": 1524000
     }
   ]
 }
