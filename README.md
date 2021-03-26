@@ -1,13 +1,13 @@
 # barkisnet-binary
 
-##barkisnet-devnet
+## barkisnet-devnet
 
 Barkis Devenet deploy files
 
-##barkisnet-mainnet
+## barkisnet-mainnet
 
 Barkis Mainnet deploy files
 
-##barkisnet-testnet
+## barkisnet-testnet
 
 Barkis Testnet deploy files
